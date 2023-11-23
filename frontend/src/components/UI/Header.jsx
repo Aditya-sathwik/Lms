@@ -1,7 +1,7 @@
 import React from "react";
 // import 'dotenv/config'
-import logo1 from "./../../assets/images/nielit.png";
-import lions from "./../../assets/images/emblem33.png";
+import logo1 from "./../../assets/images/gkvlogo1.png";
+import lions from "./../../assets/images/founder.webp";
 import bcg from "./../../assets/images/headerbackground.jpg";
 
 export default function Header() {
@@ -22,17 +22,15 @@ export default function Header() {
                     textShadow: "2px 2px grey",
                   }}
                 >
-                  NIELIT
+                  
                 </h1>
 
-                <h1 style={{ fontSize: "2.2vw" }}>
+                <h1 style={{ fontSize: "2.2vw" , paddingTop : "50px"}}>
                   {" "}
-                  National Institute of Electronics and Information Technology,
-                  Haridwar
+               Faculty of Engineering and Technology, GKV Haridwar
                 </h1>
                 <p style={{ fontSize: "1.2vw" }}>
-                  An Autonomous Scientific Society of Ministry of Electronics &
-                  Information Technology (MeitY), Government of India
+                  (formerly Gurkul Kangri Vishwavidyalaya)
                 </p>
               </td>
               <td style={{}}>

@@ -1,7 +1,7 @@
 import { useState, useEffect, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import loginImg from "./../../assets/images/srp2.png";
-import nielitLogo from "./../../assets/images/nielit.png";
+import nielitLogo from "./../../assets/images/gkvlogo1.png";
 import { Link } from "react-router-dom"; 
 import { UserContext } from './../../context-api/UserState';
 import {
@@ -81,9 +81,9 @@ function Login({ Salert }) {
           <figure>
             <img src={nielitLogo} alt="nielitLogo" className="nielitLogo" />
           </figure>
-          <h2>National Institute of Electronics</h2>
+          <h2></h2>
 
-          <h4>& Information Technology, Haridwar</h4>
+          <h4>Faculty of Engineering & Technology, Haridwar</h4>
           <figure className="d-flex flex-column justify-content-center align-items-center ">
             <img className="w-75" src={loginImg} alt="LoginImg" />
           </figure>

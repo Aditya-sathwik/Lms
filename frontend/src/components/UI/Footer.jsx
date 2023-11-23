@@ -16,8 +16,8 @@ export default function Footer() {
       <div className="container-fluid " style={{marginTop: '0', paddingTop: "0"}}>
         <div className="row">
           <div className="col-lg-5 m-2" style={{marginLeft: 0, marginRight: 'auto'}}>
-            <h3 className='text-light'>NIELIT Haridwar</h3>
-            <p style={{textAlign: 'justifyContent', color:'white'}}>2nd Floor, Government Polytechnic Building, Plot No-6C, Sector-11, Near Pentagon Mall, SIDCUL, Haridwar, Uttarakhand-249403.</p>
+            <h3 className='text-light'>FET GKV, Haridwar</h3>
+            <p style={{textAlign: 'justifyContent', color:'white'}}> Faculy of Engineering and Technology ,Delhi-Deharadun Highway, Bhadrabad , Haridwar 249402.</p>
           </div>
 
           <div className="col-lg-6" style={{marginRight: '0', marginLeft: 'auto'}}>
@@ -46,7 +46,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <p className="text-center text-secondary  border-top p-0 m-0" id="copyright">Copyright &copy; 2022, all rights reserved. This website design and develop by <a href="https://nielit.gov.in/haridwar/" target="_blank" className='text-decoration-none'>NIELIT Haridwar</a></p>
+        <p className="text-center text-secondary  border-top p-0 m-0" id="copyright">Copyright &copy; 2022, all rights reserved. This website design and develop by <a href="https://gkv.ac.in/haridwar/" target="_blank" className='text-decoration-none'>Gkv</a></p>
       </div>
     </footer>
 
